@@ -9,6 +9,43 @@
       "id": 2
     }
   ],
-  "albums": [],
-  "photos": []
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Incredible Frozen Mouse",
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "title": "Awesome Steel Shoes",
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "title": "Licensed Bronze Shirt",
+      "id": 13
+    },
+    {
+      "userId": 1,
+      "title": "Ergonomic Soft Shoes",
+      "id": 14
+    },
+    {
+      "userId": 1,
+      "title": "Fantastic Wooden Soap",
+      "id": 15
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/640/480/abstract?lock=7891102969364480",
+      "id": 1
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/640/480/abstract?lock=3266418587992064",
+      "id": 2
+    }
+  ]
 }
